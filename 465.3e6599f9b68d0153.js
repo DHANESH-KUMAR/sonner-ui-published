@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[465],{465:(e,r,s)=>{s.r(r),s.d(r,{default:()=>d});var c=s(41),n=s(85);const t=function(){return(0,n.jsx)("div",{children:(0,n.jsx)("h1",{children:"Report App"})})},d=()=>(0,n.jsx)(c.StrictMode,{children:(0,n.jsx)(t,{})})}}]);
